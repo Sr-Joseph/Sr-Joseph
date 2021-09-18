@@ -1,6 +1,6 @@
 Olá Bem-Vindo, eu sou o Anacleto Joseph!
 
-- 🖥️ Estudante de UX/UI Design, Front End e Business Inteligence
+- 🖥️ Estudante de UX/UI Design e Front End
 
 <div>
   <a href="https://github.com/Sr-Joseph">
