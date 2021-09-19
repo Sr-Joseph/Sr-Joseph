@@ -8,7 +8,7 @@ Olá Bem-Vindo, eu sou o Anacleto Joseph!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sr-Joseph&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sr-Joseph&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
-
+	
 ## Linguagens e Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="Anacleto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,9 +24,8 @@ Olá Bem-Vindo, eu sou o Anacleto Joseph!
 </div>
 	
 ##
-<p>"Quando você entender onde deve estar seu verdadeiro foco e focar nele.
-Aí sim você será capaz de enxergar o que tanto olha, mas não consegue ver!
-"</p>
+<p>"Quando você entender aonde deve estar seu verdadeiro foco e focar nele.
+Aí sim você será capaz de enxergar o que tanto olha, mas não consegue ver!"</p>
 	
 ##
 	
