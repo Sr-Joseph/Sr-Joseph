@@ -24,7 +24,7 @@ Olá Bem-Vindo, eu sou o Anacleto Joseph!
 </div>
 	
 ##
-<p>"Quando você entender aonde deve estar seu verdadeiro foco e focar nele.
+<p>"Quando você entender onde deve estar seu verdadeiro foco e focar nele.
 Aí sim você será capaz de enxergar o que tanto olha, mas não consegue ver!"</p>
 	
 ##
